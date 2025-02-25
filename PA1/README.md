@@ -1,9 +1,6 @@
 AUTHOR INFO
 Full name: Nikolai Semerdjiev
-Student ID: 002436705
-Chapman Email: nsemerdjiev@chapman.edu
-Course number and section: CPSC-380-02
-Assignment or exercise number: PA 1: System Call Interface
+Project: System Call Interface
 
 
 ERRORS 
